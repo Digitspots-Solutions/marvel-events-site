@@ -1,0 +1,42 @@
+{
+  "businessName": "Marvel.Events",
+  "industry": "Event Manufacturing & Production",
+  "tone": "professional",
+  "tagline": "Crafting Exceptional Event Experiences Across Nigeria",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to Marvel.Events - Your Premier Event Manufacturing Partner. From corporate gatherings to spectacular celebrations, we manufacture and deliver world-class event solutions that leave lasting impressions. Based in Lagos, serving clients nationwide.",
+      "imagePrompt": "Photorealistic wide shot of a luxurious Nigerian event venue setup with elegant stage backdrop, professional lighting rigs, branded event structures, and high-quality furniture arrangements. Modern event production equipment visible in a sophisticated indoor venue with ambient purple and gold lighting. Sharp focus, commercial photography style.",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Marvel.Events is a leading event manufacturing company based in Lagos, Nigeria. We specialise in designing, manufacturing, and installing premium event infrastructure for corporate events, weddings, exhibitions, and large-scale celebrations. With our state-of-the-art production facility in Ladipo, Oshodi, we combine craftsmanship with innovation to deliver exceptional event solutions. Our team of experienced professionals works closely with event planners, businesses, and individuals to transform visions into reality. From custom stage designs and branded backdrops to complete venue transformations, Marvel.Events ensures every detail reflects excellence and professionalism.",
+      "imagePrompt": "Photorealistic image of a modern Nigerian manufacturing workshop with skilled craftsmen working on event structures, stage elements, and decorative panels. Clean, well-lit industrial space with wood, metal, and fabric materials organized professionally. Workers in branded uniforms, safety equipment visible, showing precision craftsmanship. Bright natural lighting from skylights.",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Stage & Backdrop Manufacturing: Custom-built stages, podiums, and branded backdrops tailored to your event theme and specifications.\n\nEvent Furniture Production: High-quality chairs, tables, lounges, and specialty seating manufactured to elevate your event ambiance.\n\nExhibition Stands & Displays: Professional exhibition booths, product display units, and promotional structures for trade shows and corporate events.\n\nBranding & Signage Solutions: Custom event signage, directional boards, welcome stands, and branded installations that reinforce your identity.\n\nVenue Transformation: Complete venue setup including draping, lighting structures, ceiling installations, and decorative elements.\n\nLogistics & Installation: Professional delivery, on-site installation, event support, and post-event dismantling services across Nigeria.",
+      "imagePrompt": "Photorealistic collage-style image showing multiple Nigerian event setups: elegant wedding stage with floral backdrop, corporate conference setup with branded podium and screens, exhibition booth with product displays, outdoor festival structure with colorful canopies. Vibrant, professional photography showcasing diversity of event types. Golden hour lighting, Lagos skyline visible in background.",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to bring your event vision to life? Get in touch with Marvel.Events today for a free consultation and quotation. Our team is available to discuss your requirements, provide expert recommendations, and deliver solutions that exceed expectations.\n\nVisit our manufacturing facility in Ladipo, Oshodi, or reach out via phone and WhatsApp. We serve clients across Lagos, Ikorodu West, and throughout Nigeria. Let's create something extraordinary together.",
+      "imagePrompt": "Photorealistic image of a modern Nigerian business office reception area with comfortable seating, Marvel.Events branding on the wall, professional staff member at desk with laptop and phone, welcoming atmosphere. Large windows showing Lagos cityscape, contemporary Nigerian office interior design with warm lighting and plants. Corporate yet approachable environment.",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "07066636529",
+    "email": "info@marvelevents.ng",
+    "address": "No. 35 Ajisegiri Street, Ladipo, Oshodi, Lagos",
+    "whatsapp": "https://wa.me/2347066636529"
+  }
+}
